@@ -15,10 +15,17 @@ O software, a ser implementado, deve monitorar a presença e atividades escolare
 # Instruções do problema
 
 | Problemas | 
-| --- | --- |
+| --------- |
 | Não tem sistemas para auxiliar nas entregas de chaves para alunos com autorização do professor |
 | Professores e alunos levando a chave para casa |
 | perda de chave |
 | É obrigado arrebentar a porta para dar aula quando perde a chave |
 | capaz de perder as 2 chaves a reserva e a principal |
 | -Se acontecer do pessoal da limpeza entrar em uma sala e tiver alguma coisa faltando ou quebrado não vai saber quem foi, pois tem outros servidores que tem uma copía da chave |
+
+
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
