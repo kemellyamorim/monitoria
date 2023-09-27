@@ -41,6 +41,6 @@ O software, a ser implementado, deve monitorar a presença e atividades escolare
 | nome | Responsabilibidade |     E- mail | 
 | :---         |     :---:      |          ---: |
 | Kemelly    | listar visões gerais (escopo)     | caang.2022119isinf26@aluno.ifpi.edu.br   | 
-| Evanildo   | Listar problemas/ soluções  | caang.2022119isinf16@aluno.ifpi.edu.br     | 
+| Evanildo   | Listar problemas/ soluções  | caang.2022119isinf09@aluno.ifpi.edu.br     | 
 
 
