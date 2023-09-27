@@ -38,7 +38,10 @@ O software, a ser implementado, deve monitorar a presença e atividades escolare
 | -Se acontecer do pessoal da limpeza entrar em uma sala e tiver alguma coisa faltando ou quebrado não vai saber quem foi, pois tem outros servidores que tem uma copía da chave |
 
 # EQUIPE
+| Left-aligned | Center-aligned | Right-aligned | | Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: | | :---         |     :---:      |          ---: |
+| git status   | git status     | git status    | | git status   | git status     | git status    |
+| git diff     | git diff       | git diff      | | git diff     | git diff       | git diff      |
+
+
 | Nome | Responsabilibidade | E- mail |  Github |
-| :---         |     :---:      |          ---: | |          ---: |
-| git status   | git status     | git status    | | git status    |
-| git diff     | git diff       | git diff      | | git diff      |
