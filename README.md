@@ -38,6 +38,6 @@ O software, a ser implementado, deve monitorar a presença e atividades escolare
 | -Se acontecer do pessoal da limpeza entrar em uma sala e tiver alguma coisa faltando ou quebrado não vai saber quem foi, pois tem outros servidores que tem uma copía da chave |
 
 # EQUIPE
-| Nome | | responsabilidade | | E-mail | | Github |
-| ---- | | ---------------- | | ------ | | ------ |
+| Nome              | | responsabilidade                | | E-mail                                 | | Github        |
+| ------------------| | ------------------------------- | | -------------------------------------- | | ------------- |
 | Kemelly Christine | |Listar as visões gerais (escopo) | | caang.2022119isinf26@aluno.ifpi.edu.br | | kemellyamorim |
