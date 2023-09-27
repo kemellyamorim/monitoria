@@ -37,4 +37,4 @@ O software, a ser implementado, deve monitorar a presença e atividades escolare
 | capaz de perder as 2 chaves a reserva e a principal |
 | -Se acontecer do pessoal da limpeza entrar em uma sala e tiver alguma coisa faltando ou quebrado não vai saber quem foi, pois tem outros servidores que tem uma copía da chave |
 
-`#0969DA`EQUIPE 
+" #0969DA EQUIPE "
