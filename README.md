@@ -12,6 +12,20 @@ busca uma solução em software para substituir um sistema previamente implement
 
 O software, a ser implementado, deve monitorar a presença e atividades escolares dos alunos mantendo os responsáveis informados.
 
+# visões gerais
+
+| Visões  |
+| --------------|
+| Caio pega chaves todos os dias |
+| não tem autorização para pegar de outros laboratório |
+| Necessidade de autorização para pegar a chave |
+| So pode ficar em um laboratório |
+| cada professor ter seu proprio monitor |
+| Professores e alunos levando a chave para casa |
+| responsabilização dos monitores |
+| sistemas para auxiliar nas entregas de chaves para alunos com autorização do professor |
+
+
 # Instruções do problema
 
 | Problemas | 
