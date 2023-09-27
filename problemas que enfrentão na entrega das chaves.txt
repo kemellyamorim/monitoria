@@ -1,0 +1,23 @@
+#Anotações
+-Caio pega chaves todos os dias;
+-Ana julia e kemilly ja aconteceu de não encoontrar a monitora para entregar a chave
+-não tem autorização para pegar de outros laboratório
+-Necessidade de autorização para pegar a chave
+-Entregar a chave para qualquer pessoa
+-So pode ficar em um laboratório
+-Trocar as chaves entre os monitores
+-cada professor ter seu proprio monitor
+-Professores e alunos levando a chave para casa
+-responsabilização dos monitores
+-sistemas para auxiliar nas entregas de chaves para alunos com autorização do professor
+ 
+#Problemas
+-Não tem sistemas para auxiliar nas entregas de chaves para alunos com autorização do professor
+-Ana julia e kemilly ja aconteceu de não encoontrar a monitora para entregar a chave
+-Entregar a chave para qualquer pessoa
+-Professores e alunos levando a chave para casa
+-perda de chave
+-É obrigado arrebentar a porta para dar aula quando perde a chave
+-servidores ter chave reserva
+-capaz de perder as 2 chaves a reserva e a principal
+-Se acontecer do pessoal da limpeza entrar em uma sala e tiver alguma coisa faltando ou quebrado não vai saber quem foi, pois tem outros servidores que tem uma copía da chave
